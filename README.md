@@ -2,7 +2,7 @@
 
 
 
-## MargaritaTorres
+## Margarita Torres
 
 
 Repositorio con los ejercicios resueltos de la Evaluacion Final Modulo 2. 
